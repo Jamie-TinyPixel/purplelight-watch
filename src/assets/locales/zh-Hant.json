@@ -85,6 +85,7 @@
             "title": "確認您的密碼短語"
         }
     },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     "errors": {
         "badge": "它壞了",
@@ -93,6 +94,8 @@
         "showError": "顯示錯誤詳情",
         "title": "我們遇到了一個錯誤！"
 =======
+=======
+>>>>>>> master
     "title": "關於 purplelight"
   },
   "actions": {
@@ -211,7 +214,10 @@
     "legal": {
       "disclaimer": "免責聲明",
       "disclaimerText": "purplelight 不託管任何文件，僅連結至第三方服務。法律問題應由文件託管者和內容提供者解決。 purplelight 對影片提供者顯示的任何媒體檔案不承擔任何責任。"
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
     },
     "navigation": {
         "banner": {

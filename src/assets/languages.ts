@@ -3,6 +3,10 @@ import bg from "@/assets/locales/bg.json";
 import bn from "@/assets/locales/bn.json";
 import ca from "@/assets/locales/ca.json";
 import caVl from "@/assets/locales/ca@valencia.json";
+<<<<<<< HEAD
+=======
+import cat from "@/assets/locales/catspeak.json";
+>>>>>>> master
 import cs from "@/assets/locales/cs.json";
 import da from "@/assets/locales/da.json";
 import de from "@/assets/locales/de.json";

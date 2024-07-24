@@ -14,6 +14,7 @@
       "body": "Nos résultats de recherche sont alimentés par The Movie Database (TMDB) et s'affichent indépendamment de la disponibilité réelle du contenu dans nos sources.",
       "title": "Les résultats de la recherche affichent la série ou le film, pourquoi ne puis-je pas le lire ?"
     },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     "title": "À propos de sudo-flix",
     "q4": {
@@ -27,6 +28,9 @@
 =======
     "title": "À propos de purplelight"
 >>>>>>> Stashed changes
+=======
+    "title": "À propos de purplelight"
+>>>>>>> master
   },
   "actions": {
     "copied": "Copié",

@@ -85,6 +85,7 @@
             "title": "Şifreleme anahtarınızı doğrulayın"
         }
     },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     "errors": {
         "badge": "Bir şeyler ters gitti",
@@ -93,6 +94,8 @@
         "showError": "Hata ayrıntılarını göster",
         "title": "Bir hatayla karşılaştık!"
 =======
+=======
+>>>>>>> master
     "title": "purplelight hakkında"
   },
   "actions": {
@@ -211,7 +214,10 @@
     "legal": {
       "disclaimer": "Sorumluluk Reddi",
       "disclaimerText": "purplelight herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. purplelight, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
     },
     "navigation": {
         "banner": {

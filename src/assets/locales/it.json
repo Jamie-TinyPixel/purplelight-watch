@@ -1,10 +1,14 @@
 {
 <<<<<<< Updated upstream
   "about": {
+<<<<<<< HEAD
     "description": "sudo-flix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. sudo-flix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
+=======
+    "description": "purplelight è un'applicazione web che ricerca dei stream sull'internet. Il team cerca di usare un approccio prevalentemente minimalista per usufruire del contenuto.",
+>>>>>>> master
     "faqTitle": "Domande comuni",
     "q1": {
-      "body": "sudo-flix non ospita alcun contento. Quando clicci su qualcosa da guardare, sudo-flix cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da sudo-flix, tutto è attraverso questo meccanismo di ricerca.",
+      "body": "purplelight non ospita alcun contento. Quando clicci su qualcosa da guardare, purplelight cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da purplelight, tutto è attraverso questo meccanismo di ricerca.",
       "title": "Da dove arriva il contenuto?"
 =======
     "about": {
@@ -34,13 +38,14 @@
 >>>>>>> Stashed changes
     },
     "q2": {
-      "body": "Non è possibile richiedere uno show o un film, sudo-flix non gestisce alcun contenuto. Tutti i contenuti sono visualizzati da sorgenti online.",
+      "body": "Non è possibile richiedere uno show o un film, purplelight non gestisce alcun contenuto. Tutti i contenuti sono visualizzati da sorgenti online.",
       "title": "Dove posso richiedere una serie o un film?"
     },
     "q3": {
       "body": "I nostri risultati sono alimentati da «The Movie Database (TMDB)» e visualizzare indipendentemente dal fatto che nostri sorgenti hanno effettivamente il contenuto.",
       "title": "I risultati di ricerca mostrano la serie o il film, perché non posso riprodurlo?"
     },
+<<<<<<< HEAD
     "title": "Su di sudo-flix (^▽^)",
     "q4": {
       "title": "E i miei dati?",
@@ -51,6 +56,9 @@
       "body": "be', sudo-flix ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
       "title": "Come posso sapere di più?"
     }
+=======
+    "title": "Su di purplelight"
+>>>>>>> master
   },
   "actions": {
     "copied": "Copiato",
@@ -215,6 +223,7 @@
   },
   "footer": {
     "legal": {
+<<<<<<< HEAD
       "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
       "disclaimerText": "Nota: sudo-flix non ospita alcun file ma visualizza solo il contenuto di fornitori di terze parti. Le questioni legali dovrebbero essere affrontate con loro."
 =======
@@ -231,6 +240,10 @@
             "discover": "Scopri"
         }
 >>>>>>> Stashed changes
+=======
+      "disclaimer": "Disclaimer",
+      "disclaimerText": "purplelight non ospita qualsiasi file, si collega solo a fonti di terze parti. Se avete problemi legali, rivolgetevi ai file host e ai provider. purplelight non è responsabile per i file multimediali mostrati dai video provider."
+>>>>>>> master
     },
     "links": {
       "discord": "Discord",
@@ -241,8 +254,9 @@
     "tagline": "Guarda i tuoi preferiti programmi televisivi e film gratis senza publicità! (っ'ヮ'c)"
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "purplelight",
     "pages": {
+<<<<<<< HEAD
       "about": "Su sudo-flix",
       "dmca": "DMCA",
       "login": "Accedi",
@@ -252,6 +266,15 @@
       "settings": "Impostazioni",
       "discover": "Scopri",
       "support": "Supporto"
+=======
+      "about": "Su di purplelight",
+      "dmca": "DMCA",
+      "login": "Accedi",
+      "onboarding": "Setup",
+      "pagetitle": "{{title}} - purplelight",
+      "register": "Registrarsi",
+      "settings": "Impostazioni"
+>>>>>>> master
     }
   },
   "home": {
@@ -328,7 +351,7 @@
       "offline": "Controlla la tua connessione internet, stupida oca! 🦢"
     },
     "menu": {
-      "about": "Su di sudo-flix",
+      "about": "Su di purplelight",
       "logout": "Esci",
       "register": "Sincronizza al sudo-cloud",
       "settings": "Impostazioni",
@@ -404,6 +427,7 @@
           "title": "Proxy personalizzato"
         }
       },
+<<<<<<< HEAD
       "title": "Configuriamo sudo-flix 🥳"
 =======
             "back": "Torna indietro",
@@ -794,6 +818,9 @@
         "timeFrame": "<bold>31 Marzo 5:00 - 11:00 </bold>",
         "title": "Problemi col fornitore"
 >>>>>>> Stashed changes
+=======
+      "title": "Configuriamo purplelight"
+>>>>>>> master
     }
   },
   "overlays": {
@@ -809,11 +836,19 @@
     },
     "menus": {
       "downloads": {
+<<<<<<< HEAD
         "copyHlsPlaylist": "Copia link playlist HLS",
         "disclaimer": "I download vengono effettuati direttamente dal provider. sudo-flix non ha il controllo sulle modalità di fornitura dei download.",
         "downloadSubtitle": "Scarica sottotitolo attuale",
         "downloadVideo": "Scarica video",
         "hlsDisclaimer": "I download vengono effettuati direttamente dal provider. sudo-flix non ha il controllo sul modo in cui vengono forniti i download.<br /><br />Tieni presente che stai scaricando una playlist HLS, <bold>non è consigliabile scaricarla se non hai familiarità con i formati di streaming avanzati</bold>. Prova diverse fonti per diversi formati.",
+=======
+        "copyHlsPlaylist": "Copia link HLS playlist",
+        "disclaimer": "I download vengono effettuati direttamente dal provider. purplelight non ha il controllo sulle modalità di fornitura dei download.",
+        "downloadSubtitle": "Scarica sottotitolo attuale",
+        "downloadVideo": "Scarica video",
+        "hlsDisclaimer": "I download vengono effettuati direttamente dal provider. purplelight non ha il controllo sul modo in cui i download vengono forniti.<br /><br />Nota che se state scaricando un playlist HLS, <bold>non è raccomandato di scaricare se non si ha familiarità con i formati di streaming avanzati</bold>. Prova altri sorgenti per diversi formati.",
+>>>>>>> master
         "onAndroid": {
           "1": "Per scaricare su Android, fai clic sul pulsante di download quindi, nella nuova pagina, <bold>tocca e tieni premuto</bold> sul video, quindi seleziona <bold>salva</bold>.",
           "shortTitle": "Scarica / Android",
@@ -948,7 +983,11 @@
         "badge": "L'estensione è disabilitata",
         "enableExtension": "Abilita l'estensione",
         "homeButton": "Torna alla pagina iniziale",
+<<<<<<< HEAD
         "text": "Hai installato l'estensione sudo-flix. Per iniziare a usarla, devi abilitare l'estensione per questo sito.",
+=======
+        "text": "Avete installato l'estensione purplelight. Per iniziare a usarla, è necessario abilitare l'estensione per questo sito.",
+>>>>>>> master
         "title": "Abilita l'estensione"
       },
       "items": {
@@ -972,16 +1011,28 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
+<<<<<<< HEAD
       "description": "Per favore dimostra la tua umanità completando il Captcha a destra. Questo serve a mantenere sudo-flix.lol al sicuro!",
       "error": "Impossibile verificare la vostra umanità! Riprova.",
       "title": "Sei un Robot 🤖?",
       "verifyingHumanity": "Verificando la tua umanità... (^▽^)👍"
+=======
+      "description": "Verifica che siate umani completando il Captcha sulla destra. Questo serve a mantenere purplelight sicuro!",
+      "error": "Impossibile verificare la vostra umanità. Riprova.",
+      "title": "Dobbiamo verificare che lei sia umano.",
+      "verifyingHumanity": "Verificare la vostra umanità..."
+>>>>>>> master
     }
   },
   "screens": {
     "dmca": {
+<<<<<<< HEAD
       "text": "Benvenuto nella pagina dei contatti DMCA di sudo-flix. Se ritieni che la tua opera protetta da copyright sia stata utilizzata in modo improprio sulla nostra piattaforma (😢), invia una notifica DMCA dettagliata a: <bold>{{dmca}}</bold> di seguito. Si prega di includere una descrizione del materiale protetto da copyright, i dettagli di contatto e una dichiarazione di buona fede. Ci impegniamo a risolvere tempestivamente queste questioni e apprezziamo la tua collaborazione.",
       "title": "DMCA :("
+=======
+      "text": "Benvenuti nella pagina di contatto DMCA di purplelight! Rispettiamo i diritti di proprietà intellettuale e vogliamo risolvere rapidamente qualsiasi problema di copyright. Se ritenete che il vostro lavoro protetto da copyright sia stato utilizzato in modo improprio sulla nostra piattaforma, inviate una notizia DMCA all'indirizzo e-mail indicato di seguito. Dovresti includere una descrizione del materiale protetto da copyright, i propri dati di contatto e una dichiarazione di buona fede. Ci impegniamo a risolvere tempestivamente questi problemi e apprezziamo la vostra collaborazione per mantenere purplelight un luogo che rispetta la creatività e i diritti d'autore.",
+      "title": "DMCA"
+>>>>>>> master
     },
     "loadingApp": "Caricamento dell'applicazione",
     "loadingUser": "Caricamento del tuo profilo",
