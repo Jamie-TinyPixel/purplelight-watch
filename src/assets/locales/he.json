@@ -83,7 +83,6 @@
             "title": "אשר את ביטוי הסיסמה שלך"
         }
     },
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     "errors": {
         "badge": "זה נשבר",
@@ -92,8 +91,6 @@
         "showError": "הצג פרטי שגיאה",
         "title": "נתקלנו בשגיאה!"
 =======
-=======
->>>>>>> master
     "title": "על purplelight"
   },
   "actions": {
@@ -205,10 +202,7 @@
     "legal": {
       "disclaimer": "תנית ויתור",
       "disclaimerText": "purplelight אינו מארח קבצים, הוא רק מקשר לשירותי צד שלישי. יש להתייחס לסוגיות משפטיות עם המארחים והספקים של הקבצים. purplelight אינה אחראית לכל קבצי מדיה המוצגים על ידי ספקי הווידאו."
-<<<<<<< HEAD
 >>>>>>> Stashed changes
-=======
->>>>>>> master
     },
     "navigation": {
         "banner": {

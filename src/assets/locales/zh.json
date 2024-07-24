@@ -85,7 +85,6 @@
             "title": "确认您的密码短语"
         }
     },
-<<<<<<< HEAD
 <<<<<<< Updated upstream
     "errors": {
         "badge": "坏了",
@@ -94,8 +93,6 @@
         "showError": "显示错误细节",
         "title": "我们遇到了错误！"
 =======
-=======
->>>>>>> master
     "title": "关于 purplelight"
   },
   "actions": {
@@ -214,10 +211,7 @@
     "legal": {
       "disclaimer": "免责声明",
       "disclaimerText": "purplelight 不托管任何文件，仅链接到第三方服务。 法律问题应由文件托管者和内容提供者解决。 purplelight 对视频提供者显示的任何媒体文件不承担任何责任。"
-<<<<<<< HEAD
 >>>>>>> Stashed changes
-=======
->>>>>>> master
     },
     "navigation": {
         "banner": {
