@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
     "about": {
         "description": "sudo-flix internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
         "faqTitle": "Sıkça sorulan sorular",
@@ -19,6 +20,18 @@
     "actions": {
         "copied": "Kopyalandı",
         "copy": "Kopyala"
+=======
+  "about": {
+    "description": "purplelight internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
+    "faqTitle": "Sıkça sorulan sorular",
+    "q1": {
+      "body": "purplelight herhangi bir içerik barındırmaz. İzlemek için bir şeye tıkladığınızda, seçilen medya için internette arama yapılır (Yükleme ekranında ve 'video kaynakları' sekmesinde hangi kaynağı kullandığınızı görebilirsiniz). Medya hiçbir zaman purplelight tarafından yüklenmez, her şey bu arama mekanizması aracılığıyla gerçekleşir.",
+      "title": "İçerikler nereden geliyor?"
+    },
+    "q2": {
+      "body": "Bir dizi veya film talep etmek mümkün değildir, purplelight içeriklerin hiçbirini yönetmez. Tüm içerikler internet üzerindeki kaynaklar aracılığıyla görüntülenir.",
+      "title": "Bir dizi veya filmi nereden talep edebilirim?"
+>>>>>>> Stashed changes
     },
     "auth": {
         "createAccount": "Henüz bir hesabınız yok mu? <0>Hesap oluşturun.</0>",
@@ -72,12 +85,30 @@
             "title": "Şifreleme anahtarınızı doğrulayın"
         }
     },
+<<<<<<< Updated upstream
     "errors": {
         "badge": "Bir şeyler ters gitti",
         "details": "Hata detayları",
         "reloadPage": "Sayfayı yenile",
         "showError": "Hata ayrıntılarını göster",
         "title": "Bir hatayla karşılaştık!"
+=======
+    "title": "purplelight hakkında"
+  },
+  "actions": {
+    "copied": "Kopyalandı",
+    "copy": "Kopyala"
+  },
+  "auth": {
+    "createAccount": "Henüz bir hesabınız yok mu? <0>Hesap oluşturun.</0>",
+    "deviceNameLabel": "Cihaz ismi",
+    "deviceNamePlaceholder": "Kişisel telefon",
+    "generate": {
+      "description": "Şifreleme anahtarınız, kullanıcı adınız ve parolanız olarak işlev görür. Hesabınıza giriş yapmak için bu parolayı girmeniz gerekeceğinden onu güvende tuttuğunuzdan emin olun",
+      "next": "Şifreleme anahtarımı kaydettim",
+      "passphraseFrameLabel": "Şifreleme anahtarı",
+      "title": "Şifreleme anahtarınız"
+>>>>>>> Stashed changes
     },
     "footer": {
         "legal": {
@@ -150,6 +181,7 @@
             }
         }
     },
+<<<<<<< Updated upstream
     "media": {
         "episodeDisplay": "S{{season}} B{{episode}}",
         "types": {
@@ -157,6 +189,29 @@
             "show": "Dizi"
         },
         "unreleased": "Yayınlanmamış"
+=======
+    "verify": {
+      "description": "Kaydettiğinizi doğrulamak ve hesabınızı oluşturmak için önceki aşamada gösterilen şifreleme anahtarınızı girin",
+      "invalidData": "Veri geçersiz",
+      "noMatch": "Şifreleme anahtarı eşleşmiyor",
+      "passphraseLabel": "12 kelimelik şifreleme anahtarınız",
+      "recaptchaFailed": "ReCaptcha doğrulaması başarısız",
+      "register": "Hesap oluştur",
+      "title": "Şifreleme anahtarınızı doğrulayın"
+    }
+  },
+  "errors": {
+    "badge": "Bir şeyler ters gitti",
+    "details": "Hata detayları",
+    "reloadPage": "Sayfayı yenile",
+    "showError": "Hata ayrıntılarını göster",
+    "title": "Bir hatayla karşılaştık!"
+  },
+  "footer": {
+    "legal": {
+      "disclaimer": "Sorumluluk Reddi",
+      "disclaimerText": "purplelight herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. purplelight, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
+>>>>>>> Stashed changes
     },
     "navigation": {
         "banner": {
@@ -170,11 +225,31 @@
             "support": "Destekle"
         }
     },
+<<<<<<< Updated upstream
     "notFound": {
         "badge": "Bulunamadı",
         "goHome": "Ana sayfaya dön",
         "message": "Her yere baktık: bazanın altına, dolabın içine hatta ara sunucuya ama maalesef aradığınız sayfayı bulamadık.",
         "title": "Sayfa bulunamadı"
+=======
+    "tagline": "Bu açık kaynaklı akış uygulamasıyla en sevdiğiniz dizileri ve filmleri izleyin."
+  },
+  "global": {
+    "name": "purplelight",
+    "pages": {
+      "about": "Hakkında",
+      "dmca": "DMCA",
+      "login": "Giriş yap",
+      "onboarding": "Kur",
+      "pagetitle": "{{title}} - purplelight",
+      "register": "Kayıt ol",
+      "settings": "Ayarlar"
+    }
+  },
+  "home": {
+    "bookmarks": {
+      "sectionTitle": "Yerimleri"
+>>>>>>> Stashed changes
     },
     "onboarding": {
         "defaultConfirm": {
@@ -238,14 +313,42 @@
             },
             "title": "sudo-flix ile sizi hazır hale getirelim"
         }
+<<<<<<< Updated upstream
+=======
+      },
+      "title": "purplelight ile sizi hazır hale getirelim"
+    }
+  },
+  "overlays": {
+    "close": "Kapat"
+  },
+  "player": {
+    "back": {
+      "default": "Ana sayfaya dön",
+      "short": "Geri dön"
+>>>>>>> Stashed changes
     },
     "overlays": {
         "close": "Kapat"
     },
+<<<<<<< Updated upstream
     "player": {
         "back": {
             "default": "Ana sayfaya dön",
             "short": "Geri dön"
+=======
+    "menus": {
+      "downloads": {
+        "copyHlsPlaylist": "HLS oynatma listesi bağlantısını kopyala",
+        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. purplelight'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
+        "downloadSubtitle": "Geçerli altyazıyı indir",
+        "downloadVideo": "Videoyu indir",
+        "hlsDisclaimer": "İndirmeler doğrudan sağlayıcıdan alınır. purplelight, indirmelerin nasıl sağlanacağı üzerinde kontrole sahip değildir.<br /><br />Lütfen bir HLS oynatma listesi indirdiğinizi unutmayın; <bold>ileri seviye bilginiz yoksa indirmeniz önerilmez. akış biçimleri</bold>. Farklı formatlar için farklı kaynakları deneyin.",
+        "onAndroid": {
+          "1": "Android'e indirmek için önce indir butonuna basın, sonra açılan yeni sayfada video üzerine <bold>basılı tutun</bold>, ardından <bold>Videoyu indir</bold> seçeneğini seçin.",
+          "shortTitle": "İndir / Android",
+          "title": "Android'e indirme"
+>>>>>>> Stashed changes
         },
         "casting": {
             "enabled": "Cihaza yansıtılıyor..."
@@ -401,11 +504,132 @@
                 "title": "Bunu bulamadık"
             }
         },
+<<<<<<< Updated upstream
         "time": {
             "regular": "{{timeWatched}} / {{duration}}",
             "remaining": "{{timeLeft}} kaldı • {{timeFinished, datetime}}'de bitiyor",
             "shortRegular": "{{timeWatched}}",
             "shortRemaining": "-{{timeLeft}}"
+=======
+        "title": "Altyazılar",
+        "unknownLanguage": "Bilinmeyen"
+      }
+    },
+    "metadata": {
+      "api": {
+        "text": "API üstverisi yüklenemedi, lütfen internet bağlantınızı kontrol edin.",
+        "title": "API üstverisi yüklenemedi"
+      },
+      "dmca": {
+        "badge": "Kaldırıldı",
+        "text": "Üzgünüz, bu içerik telif hakkı ihlali veya yayından kaldırma bildirimi nedeniyle kullanılamıyor.",
+        "title": "İçerik kaldırıldı"
+      },
+      "extensionPermission": {
+        "badge": "İzin Gerekli",
+        "button": "Uzantıyı kullanın",
+        "text": "Tarayıcı uzantısını yüklemişsiniz, ancak uzantıyı kullanmaya başlamak için izninize ihtiyacımız var.",
+        "title": "Uzantıyı Kişiselleştir"
+      },
+      "failed": {
+        "badge": "Başarısız oldu",
+        "homeButton": "Ana sayfaya dön",
+        "text": "Medyanın üstverisi TMDB'den alınamadı. Lütfen TMDB'nin göküp çökmediğini veya internet bağlantınız üzerinden engellenmediğini kontrol edin.",
+        "title": "Üstveri yüklenemedi"
+      },
+      "notFound": {
+        "badge": "Bulunamadı",
+        "homeButton": "Ana sayfaya dön",
+        "text": "İstediğiniz medyayı bulamadık. URL'yi yanlış girdiniz ya da medya kaldırıldı.",
+        "title": "Medya bulunamadı."
+      }
+    },
+    "nextEpisode": {
+      "cancel": "Vazgeç",
+      "next": "Sonraki bölüm"
+    },
+    "playbackError": {
+      "badge": "Oynatma hatası",
+      "errors": {
+        "errorAborted": "Medyanın alınması kullanıcının isteği üzerine iptal edildi.",
+        "errorDecode": "Daha önce kullanılabilir olduğu belirlenmiş olmasına rağmen, medya kaynağının kodu çözülmeye çalışılırken bir hata oluştu ve bu da bir hataya neden oldu.",
+        "errorGenericMedia": "Bilinmeyen medya hatası oluştu.",
+        "errorNetwork": "Medya önceden mevcut olsa da başarıyla alınmasını engelleyen bir tür ağ hatası oluştu.",
+        "errorNotSupported": "Medya veya medya sağlayıcısı desteklenmiyor."
+      },
+      "homeButton": "Ana sayfaya git",
+      "text": "Medya oynatılmaya çalışılırken bir hata oluştu. Lütfen tekrar deneyin.",
+      "title": "Video oynatılamadı!"
+    },
+    "scraping": {
+      "extensionFailure": {
+        "badge": "Eklenti devre dışı",
+        "enableExtension": "Eklentiyi etkinleştir",
+        "homeButton": "Eve git",
+        "text": "purplelight uzantısını kurdunuz. Kullanmaya başlamak için, uzantıyı bu site için etkinleştirmeniz gerekiyor.",
+        "title": "Lütfen eklentiyi etkinleştirin"
+      },
+      "items": {
+        "failure": "Hata oluştu",
+        "notFound": "Video mevcut değil",
+        "pending": "Videolar aranıyor..."
+      },
+      "notFound": {
+        "badge": "Bulunamadı",
+        "detailsButton": "Ayrıntıları göster",
+        "homeButton": "Ana sayfaya git",
+        "text": "Sağlayıcılarımız arasında arama yaptık ve aradığınız medyayı bulamadık! Medyaları barındırmıyoruz ve mevcut olanlar üzerinde hiçbir kontrolümüz yok. Daha fazla ayrıntı için lütfen aşağıdaki 'Ayrıntıları göster' seçeneğine tıklayın.",
+        "title": "Bunu bulamadık"
+      }
+    },
+    "time": {
+      "regular": "{{timeWatched}} / {{duration}}",
+      "remaining": "{{timeLeft}} kaldı • {{timeFinished, datetime}}'de bitiyor",
+      "shortRegular": "{{timeWatched}}",
+      "shortRemaining": "-{{timeLeft}}"
+    },
+    "turnstile": {
+      "description": "Lütfen sağ taraftaki Captcha'yı çözerek insan olduğunuzu doğrulayın. Bu, purplelight'i güvende tutmak içindir!",
+      "error": "İnsan olduğunuz doğrulanamadı. Lütfen tekrar deneyin.",
+      "title": "İnsan olduğunuzu doğrulamamız gerekiyor.",
+      "verifyingHumanity": "İnsan olduğunuz doğrulanıyor..."
+    }
+  },
+  "screens": {
+    "dmca": {
+      "text": "purplelight'in DMCA iletişim sayfasına hoş geldiniz! Fikri mülkiyet haklarına saygı duyuyoruz ve telif hakkıyla ilgili endişeleri hızlı bir şekilde ele almak istiyoruz. Telif hakkıyla korunan çalışmanızın platformumuzda uygunsuz şekilde kullanıldığını düşünüyorsanız lütfen aşağıdaki e-postaya ayrıntılı bir DMCA bildirimi gönderin. Lütfen telif hakkıyla korunan materyalin açıklamasını, iletişim bilgilerinizi ve iyi niyet beyanınızı ekleyin. Bu sorunları derhal çözmeye kararlıyız ve ayrıca purplelight'i yaratıcılığa ve telif haklarına saygılı bir yer olarak tutma konusundaki işbirliğiniz için teşekkür ederiz.",
+      "title": "DMCA"
+    },
+    "loadingApp": "Uygulama yükleniyor",
+    "loadingUser": "Profiliniz yükleniyor",
+    "loadingUserError": {
+      "logout": "Çıkış yap",
+      "reset": "Özel sunucuyu sıfırla",
+      "text": "Profiliniz yüklenemedi",
+      "textWithReset": "Profiliniz özel sunucunuzdan yüklenemedi, varsayılan sunucuya sıfırlamak ister misiniz?"
+    },
+    "migration": {
+      "failed": "Verileriniz taşınamadı.",
+      "inProgress": "Lütfen bekleyin, verilerinizi taşıyoruz. Bu çok uzun sürmez."
+    }
+  },
+  "settings": {
+    "account": {
+      "accountDetails": {
+        "deviceNameLabel": "Cihaz adı",
+        "deviceNamePlaceholder": "Kişisel telefon",
+        "editProfile": "Düzenle",
+        "logoutButton": "Çıkış yap"
+      },
+      "actions": {
+        "delete": {
+          "button": "Hesabı sil",
+          "confirmButton": "Hesabı sil",
+          "confirmDescription": "Hesabınızı silmek istediğinize emin misiniz? Tüm verileriniz kaybedilecek!",
+          "confirmTitle": "Emin misiniz?",
+          "text": "Bu işlem geri alınamaz. Tüm veriler silinir ve hiçbir şey kurtarılamaz.",
+          "title": "Hesabı sil"
+>>>>>>> Stashed changes
         },
         "turnstile": {
             "description": "Lütfen sağ taraftaki Captcha'yı çözerek insan olduğunuzu doğrulayın. Bu, sudo-flix'i güvende tutmak içindir!",

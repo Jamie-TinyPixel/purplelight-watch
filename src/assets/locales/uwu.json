@@ -32,8 +32,98 @@
         "copied": "Copied",
         "copy": "Copy"
     },
+<<<<<<< Updated upstream
     "auth": {
         "createAccount": "Don't have an account yet 😬 <0>Cweate an account.</0>",
+=======
+    "nextEpisode": {
+      "replay": "Wepway",
+      "next": "Nyext episode",
+      "nextSeason": "Nyext season"
+    },
+    "playbackError": {
+      "badge": "Pwayback ewwow",
+      "errors": {
+        "errorAborted": "The fetching of the media was a-abowted by the usew's wequest.",
+        "errorDecode": "Despite having pweviouswy been detewminyed t-to be usabwe, an ewwow occuwwed whiwe t-twying t-to decode the x3 media wesouwce, wesuwting in an ewwow.",
+        "errorGenericMedia": "Unknyown media ewwow occuwwed.",
+        "errorNetwork": "Some kind of nyetwowk ewwow occuwwed which pwevented the media fwom b-being successfuwwy fetched, despite having pweviouswy been avaiwabwe.",
+        "errorNotSupported": "The media ow media p-pwovidew object is nyot suppowted. ^-^"
+      },
+      "homeButton": "Go home",
+      "text": "Thewe was an ewwow t-twying t-to pway the media 😖. Pwease twy again.",
+      "title": "Faiwed t-to pway video?!?1"
+    },
+    "scraping": {
+      "items": {
+        "failure": "Ewwow occuwwed",
+        "notFound": "Doesn't have the v-v-video (╥﹏╥)",
+        "pending": "Checking fow videos..."
+      },
+      "notFound": {
+        "badge": "Nyot found",
+        "detailsButton": "Show detaiws",
+        "homeButton": "Go home",
+        "discoverButton": "Discuvw mowe",
+        "text": "We have seawched thwough ouw p-pwovidews and cannyot ^w^ find the x3 media you awe wooking fow?!?! We do nyot host the media and have nyo contwow uvw what is avaiwabwe. Pwease cwick ^w^ 'Show d-detaiws' bewow fow mowe detaiws.",
+        "title": "We couwdn't find that"
+      },
+      "extensionFailure": {
+        "badge": "Extension disabwed",
+        "homeButton": "Go home",
+        "enableExtension": "Enyabwe extension",
+        "title": "Pwease enyabwe the extension",
+        "text": "You've instawwed the s-purplelight e-extension. To stawt u-using it, you nyeed t-to enyabwe the extension fow this site."
+      }
+    },
+    "time": {
+      "regular": "{{timeWatched}} / {{duration}}",
+      "remaining": "{{timeLeft}} left • Finish at {{timeFinished, datetime}}",
+      "shortRegular": "{{timeWatched}}",
+      "shortRemaining": "-{{timeLeft}}"
+    },
+    "turnstile": {
+      "description": "Pwease pwuv youw humanyity by compweting the Captcha on the wight. This is t-to k-k-keep uwu-flix safe!?",
+      "error": "Faiwed t-to vewify youw humanyity?!! Pwease twy again.",
+      "title": "Awe You a Wobot 🤖?",
+      "verifyingHumanity": "Vewifying youw humanyity... (^▽^)👍"
+    }
+  },
+  "support": {
+    "title": "Suppowt",
+    "text": "uwu-flix is designyed t-to be as usew-fwiendwy as possibwe. Howevew, peopwe stiww have questions and issues. This page is h-h-hewe t-to hewp wesowve these showtcomings",
+    "q1": {
+      "body": "weww, :3 you c-can join the officiaw <0>purplelight discowd</0> and ask questions thewe ow (・`ω´・) you c-can emaiw the onye pwovided at the bottom of this page.",
+      "title": "Where can I get help?"
+    },
+    "q2": {
+      "body": "We have a <0>GitHub</0> whewe you c-can cweate a detaiwed issue in ouw wepositowy. Additionyawwy, if you wish, you c-can cweate a puww wequest t-to fix the issue youwsewf.",
+      "title": "H-How c-can I wepowt a bug ow issue!!11 (・`ω´・)"
+    }
+  },
+  "screens": {
+    "dmca": {
+      "text": "Wewcome t-to uwu-flix's DMCA contact page *runs away*. If you b-bewieve youw copywighted wowk (・`ω´・) has been impwopewwy used on ouw pwatfowm (😢), pwease send a detaiwed DMCA nyotice to: <bold>dmca@example.com</bold> bewow. Pwease incwude a descwiption of the copywighted matewiaw, youw contact detaiws, and a statement of good f-faith bewief. We'we committed t-to w-wesowving these mattews pwomptwy *boops your nose* and appweciate youw coopewation.",
+      "title": "DMCA (っ◞‸◟ c)"
+    },
+    "loadingApp": "W-Woading appwication",
+    "loadingUser": "W-Woading youw pwofiwe",
+    "loadingUserError": {
+      "logout": "Wogout",
+      "reset": "Weset custom sewvew",
+      "text": "Faiwed t-to woad youw pwofiwe",
+      "reload": "Wewoad",
+      "textWithReset": "Faiwed t-to woad youw pwofiwe fwom youw custom sewvew, w-want t-to weset back t-to the defauwt sewvew?!!"
+    },
+    "migration": {
+      "failed": "Faiwed t-to migwate youw data. 😿",
+      "inProgress": "Pwease howd, we awe migwating youw data. This shouwdn't take wong..."
+    }
+  },
+  "settings": {
+    "account": {
+      "accountDetails": {
+>>>>>>> Stashed changes
         "deviceNameLabel": "Device nyame",
         "deviceNamePlaceholder": "Pewsonyaw phonye",
         "generate": {
